@@ -10,6 +10,9 @@ Flask (API Deployment)
 
 # Features
 1.Data Preprocessing & EDA
+
 2.ANN Model with EarlyStopping to prevent overfitting
+
 3.API Deployment using Flask
+
 4.Real-time churn prediction with JSON input/output
