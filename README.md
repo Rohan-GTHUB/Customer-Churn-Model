@@ -9,7 +9,7 @@ Matplotlib, Seaborn
 Flask (API Deployment)
 
 # Features
-Data Preprocessing & EDA
-ANN Model with EarlyStopping to prevent overfitting
-API Deployment using Flask
-Real-time churn prediction with JSON input/output
+1.Data Preprocessing & EDA
+2.ANN Model with EarlyStopping to prevent overfitting
+3.API Deployment using Flask
+4.Real-time churn prediction with JSON input/output
